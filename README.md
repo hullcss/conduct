@@ -9,7 +9,7 @@ All hullCSS members are subject to our Code of Conduct. This is not considered a
 -  People's private lives are their own. Do not share details about others that they have not explicitly made public. This includes, but is not limited to, sexuality, gender, medical conditions, housing, relationship or financial status.
 - Do not take photos of others without their permission. They are entitled to their privacy.
 - Choose your words carefully. This is a professional environment, you never know who's listening.
-- If we disagree, understand why. Disagreements can and will arise, however this isn't an excuse to be offensive or intimidating. Debate is encouraged but keep it civil.
+- Disagreements happen, understand why. Disagreements can and will arise, however this isn't an excuse to be offensive or intimidating. Debate is encouraged but keep it civil. Be open to new open to different points of view, you might learn something.
 - Everyone is entitled to their opinion. Speech is free and there are no wrong questions, but keep it considerate and respect someone's right to refuse to answer.
 - Discussion of how to improve the community or make it more inclusive are always welcome.
 
