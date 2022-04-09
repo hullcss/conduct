@@ -13,11 +13,13 @@ All hullCSS members are subject to our Code of Conduct. This is not considered a
 - Everyone is entitled to their opinion. Speech is free and there are no wrong questions, but keep it considerate and respect someone's right to refuse to answer.
 - Discussion of how to improve the community or make it more inclusive are always welcome.
 
-If you're concerned about someone's behaviour, please let us know in person or by emailing team@hullcss.org. All reports are confidential!
+If you are a member of BCS, You will be expected to abide by BCS' [code of conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/) alongside ours. 
+
+If you're concerned about someone's behaviour, please let us know in person or by emailing hullcss@hull.ac.uk. All reports are confidential!
 
 ## Consequences
 ### Warnings
-It's always better to let someone know that their behaviour is liable to break the code of conduct before it actually does so. As such, issue them a warning. Any warnings issued should be reported to the exec, or at team@hullcss.org
+It's always better to let someone know that their behaviour is liable to break the code of conduct before it actually does so. As such, issue them a warning. Any warnings issued should be reported to the exec, or at hullcss@hull.ac.uk
 
 ### Asking people to leave
 If we're running an event and need to remove you for the wellbeing of the community, we may ask you to leave.
