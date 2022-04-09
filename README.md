@@ -16,7 +16,7 @@ All hullCSS members are subject to our Code of Conduct. This is not considered a
 
 If you're concerned about someone's behaviour, please let us know in person or by emailing hullcss@hull.ac.uk. All reports are confidential!
 
-## Additional rules and conduct 
+### Additional rules and conduct 
 If you are a member of BCS, You will be expected to abide by BCS' [Code of Conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/) alongside ours. 
 
 Within our discord server, you will be expected to follow all [Discord TOS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
