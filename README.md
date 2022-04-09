@@ -17,23 +17,23 @@ All hullCSS members are subject to our Code of Conduct. This is not considered a
 If you're concerned about someone's behaviour, please let us know in person or by emailing hullcss@hull.ac.uk. All reports are confidential!
 
 ## Additions
-If you are a member of BCS, You will be expected to abide by BCS' [code of conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/) alongside ours. 
+If you are a member of BCS, You will be expected to abide by BCS' [Code of Conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/) alongside ours. 
 
-Within our discord server, you will be expected to follow all [discord TOS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
+Within our discord server, you will be expected to follow all [Discord TOS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
 
 
 
 
 ## Consequences
 ### Warnings
-It's always better to let someone know that their behaviour is liable to break the code of conduct before it actually does so. As such, issue them a warning. Any warnings issued should be reported to the exec, or at hullcss@hull.ac.uk
+It's always better to let someone know that their behaviour is liable to break the code of conduct before it actually does so. As such, issue them a warning. Any warnings issued should be reported to the exec, or at hullcss@hull.ac.uk.
 
 ### Asking people to leave
 If we're running an event and need to remove you for the wellbeing of the community, we may ask you to leave.
 This will be enforced using the University Security, or by the venue staff.
 
 ### Termination of Membership
-In extreme cases we may feel it necessary to remove community members who are abusive or aggressive. This will be done through the official University channels, and in extreme cases may be reported to the police.
+In extreme cases we may feel it necessary to remove community members who are abusive or aggressive. This will be done through the official University and University Union channels, and in extreme cases may be reported to the police.
 
 ## Attributions
 Adapted from the [HACMan Manchester Hackspace Code of Conduct](http://wiki.hacman.org.uk/Code_of_Conduct).
