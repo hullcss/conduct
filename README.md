@@ -55,6 +55,7 @@ a. Members should not arrive to an event intoxicated.
 4) If an event is marked as a “sober social” or as a “strictly no alcohol” event, Members must not
 arrive under the influence of any alcohol. Members must accept that they will be denied entry
 to the event if they arrive intoxicated.
+
 ### Member Protection
 1) Members should ask about gender rather than assuming, and if you get it wrong, please
 apologise. Mistakes happen; however, Members should use the person's personal pronouns
@@ -70,7 +71,8 @@ refuse to answer.
 5) Members must not damage other members' property. This includes, but is not limited to, 
 physical, intellectual, or reputational.
 6) Members must not engage in academic misconduct through #hullCSS events or Discord server.
-### Consequences
+
+## Consequences
 Members must accept that an Exec or Mod’s decision is definite and can be queried or a review
 requested into the matter. Execs and Mods must ensure that they do not action unreasonably and/or 
 use their position of power inappropriately.
