@@ -110,3 +110,10 @@ https://hulluniunion.com/governance
 ## Policy Information
 This policy will be enforced with immediate effect. Members must accept that this policy may change at 
 any time, and while we endeavour to provide notice of any changes, this may not always be possible.
+
+* Policy Enforcement Start Date: Wednesday 11th May 2022 
+* Policy Read Requirement: Required; All Members 
+* Policy Publicity: Public; Accessible via Website 
+* Policy Validity Period: Indefinite: Valid until new version released
+* Policy Authour: Ethan Geraghty 
+* Policy Authoriser: Toby Maynard
