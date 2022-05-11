@@ -115,5 +115,5 @@ any time, and while we endeavour to provide notice of any changes, this may not 
 * Policy Read Requirement: Required; All Members 
 * Policy Publicity: Public; Accessible via Website 
 * Policy Validity Period: Indefinite: Valid until new version released
-* Policy Authour: Ethan Geraghty 
+* Policy Author: Ethan Geraghty 
 * Policy Authoriser: Toby Maynard
