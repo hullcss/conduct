@@ -11,10 +11,10 @@ General Conduct
 2) Disagreements, while they may occur, should be resolved smoothly, respectfully, and safely.
 3) Members must not discriminate against any other user through, though not exhaustive, their 
 gender, sexual orientation, disabilities, age, physical appearance.
-4) Members must not post anything NSFW. Full Stop.
+4) Members must not post anything considered Not Safe For Work (NSFW).
 5) Members must not post anything sexually insensitive, or anything that can be considered 
 radicalisation.
-6) Members must not post anything against Discord’s Terms of Service or Hull University Union’s 
+6) Members must not post anything against Discord’s Terms of Service or Hull University Students’ Union 
 Policy on social media. (See end of document)
 7) Members must try and keep chat in the relevant channels, we may remove content if it clutters 
 another channel.
@@ -29,7 +29,7 @@ by them was wrong, please contact the exec team directly.
 something that should be brought to our attention, please DM or ping us (refer to rule 9)
 12) Members must not advertise on the Discord server without permission. If you do wish to 
 advertise, please contact an Exec member, and get our approval before posting.
-13) This server is made by University of Hull students who are affiliated with Hull University Union. 
+13) This server is made by University of Hull students who are affiliated with Hull University Students’ Union. 
 It is worthwhile noting that this is a public server. Treat everything you post here as if it is public 
 information. (Members must not post sensitive information)
 14) All Members must accept that breaking any of these rules may result in timeouts, mutes, kicks, 
@@ -89,13 +89,17 @@ Any warnings issued should be reported to the Exec, or at hullcss@hull.ac.uk.
   This will be enforced using the University Security, or by the venue staff.
 * Termination of Membership
   * In extreme cases we may feel it necessary to remove community members who are abusive or 
-  aggressive. This will be done through the official University and University Union channels, and 
+  aggressive. This will be done through the official University and Hull University Students’ Union channels, and 
   in extreme cases may be reported to the police
   
-## Questions & Concerns
-Questions can be referred to hullcss@hull.ac.uk, the @Exec ping on Discord or DM an Exec.
-If you are concerned about someone's behaviour, please let us know in person or by emailing 
+## Questions, Concerns & Complaints
+You can contact us at:
+* Email: hullcss@hull.ac.uk
+* Discord Server: @Exec or @Mod
+If you are concerned about a Member's behaviour, please let us know in person or by emailing 
 hullcss@hull.ac.uk. All reports are confidential!
+You may also submit a complaint about the society, or its' members, if they have gone against Hull University
+Students’ Union policy at https://hulluniunion.com/contact.
 
 ## Additional Clauses
 ### [Additional Clause for BCS Members]
@@ -105,7 +109,7 @@ ours.
 ### [Additional Clause for Discord Users]
 Within our discord server, you will be expected to follow all [Discord Terms Of Service]
 https://discord.com/terms and Community Guidelines https://discord.com/guidelines
-### [Additional Clause for HUSU Members]
+### [Additional Clause for Hull University Students’ Union Members]
 You must follow the terms set out by the Hull University Students’ Union, 
 https://hulluniunion.com/governance
 
@@ -113,7 +117,7 @@ https://hulluniunion.com/governance
 This policy will be enforced with immediate effect. Members must accept that this policy may change at 
 any time, and while we endeavour to provide notice of any changes, this may not always be possible.
 
-* Policy Enforcement Start Date: Wednesday 11th May 2022 
+* Policy Enforcement Start Date: Thursday 12th May 2022 
 * Policy Read Requirement: Required; All Members 
 * Policy Publicity: Public; Accessible via Website 
 * Policy Validity Period: Indefinite: Valid until new version released
