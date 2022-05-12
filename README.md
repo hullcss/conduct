@@ -94,10 +94,10 @@ Any warnings issued should be reported to the Exec, or at hullcss@hull.ac.uk.
   
 ## Questions, Concerns & Complaints
 You can contact us at:
-* Email: mailto:hullcss@hull.ac.uk
+* Email: hullcss@hull.ac.uk
 * Discord Server: @Exec or @Mod
 If you are concerned about a Member's behaviour, please let us know in person or by emailing 
-mailto:hullcss@hull.ac.uk. All reports are confidential!
+hullcss@hull.ac.uk. All reports are confidential!
 You may also submit a complaint about the society, or its' members, if they have gone against Hull University
 Students’ Union policy at https://hulluniunion.com/contact.
 
