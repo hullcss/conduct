@@ -37,10 +37,11 @@ and even server bans or event/social bans (including Permanent Bans).
 15) Members must not make exclusionary jokes, even “ironically.”
 16) Members must not harass another member, Exec, Mod either in person, on Discord, during 
 events or at any other point.
-a. https://respectyourself.info/sex/consent/enthusiastic-consent/ is harassment, or even 
-abuse.
+a. Refusing to accept "no" as an answer is harassment, or even abuse.
 b. Clothing or flirting are not necessarily consent. If you are asked to stop, stop. If in 
 doubt, ask the other person.
+See https://web.archive.org/web/20170429150711/http://respectyourself.info/sex/consent for more information on
+consent. (Using International Web Archive since this page is no longer live).
 17) Members must not display aggressive behaviours, including elitism. Knowledge should be 
 shared; it is not a competition.
 18) Members should choose your words carefully. This is a professional environment; you never 
