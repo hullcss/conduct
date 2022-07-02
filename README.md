@@ -40,7 +40,7 @@ events or at any other point.
 a. Refusing to accept "no" as an answer is harassment, or even abuse.
 b. Clothing or flirting are not necessarily consent. If you are asked to stop, stop. If in 
 doubt, ask the other person.
-See https://web.archive.org/web/20170429150711/http://respectyourself.info/sex/consent for more information on
+See [here](https://web.archive.org/web/20170429150711/http://respectyourself.info/sex/consent) for more information on
 consent. (Using International Web Archive since this page is no longer live).
 17) Members must not display aggressive behaviours, including elitism. Knowledge should be 
 shared; it is not a competition.
@@ -104,12 +104,10 @@ Students’ Union policy at https://hulluniunion.com/contact.
 
 ## Additional Clauses
 ### [Additional Clause for BCS Members]
-If you are a member of BCS, You will be expected to abide by BCS' [Code of conduct]
-https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ alongside 
+If you are a member of BCS, You will be expected to abide by BCS' [Code of conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/) alongside 
 ours. 
 ### [Additional Clause for Discord Users]
-Within our discord server, you will be expected to follow all [Discord Terms Of Service]
-https://discord.com/terms and Community Guidelines https://discord.com/guidelines
+Within our discord server, you will be expected to follow all [Discord Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)  
 ### [Additional Clause for Hull University Students’ Union Members]
 You must follow the terms set out by the Hull University Students’ Union, 
 https://hulluniunion.com/governance
@@ -120,7 +118,7 @@ any time, and while we endeavour to provide notice of any changes, this may not 
 
 * Policy Enforcement Start Date: Thursday 12th May 2022 
 * Policy Read Requirement: Required; All Members 
-* Policy Publicity: Public; Accessible via Website 
+* Policy Publicity: Public; Accessible via [Github](https://github.com/hullcss/conduct/)
 * Policy Validity Period: Indefinite: Valid until new version released
 * Policy Author: Ethan Geraghty 
 * Policy Authoriser: Toby Maynard
